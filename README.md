@@ -21,6 +21,6 @@ The following key preprocessing steps were performed using primarily Pandas (pot
     * Verified transaction_id uniqueness per row.
     * Identified a key issue: inconsistent unit_price values associated with the same product_id across different transactions, highlighting a need for price standardization before aggregation.
 
-## Outcome
+### Outcome
 
 The EDA provided a clear understanding of the dataset, confirmed its completeness, and pinpointed the inconsistent pricing issue as a critical point for cleaning. 
